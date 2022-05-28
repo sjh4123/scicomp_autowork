@@ -1,0 +1,8 @@
+tolerance 1.0
+output pkm_output.xyz
+filetype xyz
+seed 793453
+structure singleChain.xyz
+  number 400
+  inside box -20.0 -20.0 -20.0 20.0 20.0 20.0
+end structure
